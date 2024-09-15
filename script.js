@@ -1,2 +1,1 @@
-const log = console.log;
-log("Hello from ZMA-Client");
+alert("Hello from ZMA-Client");
